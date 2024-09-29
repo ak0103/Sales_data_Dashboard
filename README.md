@@ -1,4 +1,4 @@
-# Sales_data_Dashboard
+
 # Sales Dashboard Project
 
 # Project Overview
@@ -7,17 +7,17 @@ This project is an interactive Sales Dashboard built using Excel, which visualiz
 
 # Features:
 
-Sales By Category: A bar chart showing the total sales for each product category.
+**Sales By Category:** A bar chart showing the total sales for each product category.
 
-Profit Gained Over Time: A line chart tracking profit trends across the years from 2014 to 2017.
+**Profit Gained Over Time:** A line chart tracking profit trends across the years from 2014 to 2017.
 
-Sales by State: A map showing sales distribution across different U.S. states.
+**Sales by State:** A map showing sales distribution across different U.S. states.
 
-Customer Count: A bar chart displaying the number of customers each year.
+**Customer Count:** A bar chart displaying the number of customers each year.
 
-Top 5 Customers Making Profit: A pie chart highlighting the top 5 customers contributing the most to the profit.
+**Top 5 Customers Making Profit:** A pie chart highlighting the top 5 customers contributing the most to the profit.
 
-Monthly Sales: A line graph displaying the monthly sales performance.
+**Monthly Sales:** A line graph displaying the monthly sales performance.
 
 # Dashboard Visuals
 
